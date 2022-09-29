@@ -1,4 +1,10 @@
-# Player Movement Visualization Tool
+# Gamedev Practice
+
+This is a place where I test out different things to help me learn programming games from scratch.
+
+If you enjoy programming games by hand be sure to subscribe to my [YouTube channel - Handmade Games](https://www.youtube.com/channel/UCKXSHFNc-5D9i3heHkHgeUg) - to connect. I'd love to hear from you!
+
+## Player Movement Visualization Tool
 
 `odin run main.odin`
 
